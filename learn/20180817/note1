@@ -1,0 +1,5 @@
+python memory manager,
+it call about the reference count, as this count be 0, the the variable can be recycled.
+if the object is "" or {} or () or [] is false
+here you just remember that while and for have another syntax, add else after the cycle, and if there is one break, you should just stop else
+in the print method, there is a '{}*{}={}\t'.format(a1,a2,a3)
